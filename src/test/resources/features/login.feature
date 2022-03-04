@@ -1,5 +1,5 @@
 
-@login #CukesRunner da tag login secildiginde tüm senaryolari kosturur.
+@smoke @login #CukesRunner da tag login secildiginde tüm senaryolari kosturur.
 Feature: Users should be able to login
 
 

@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
         //tags = "@driver , @store_manager" 0LD SYNTAX--> does not match after cucumber version 5
         //tags = "@login and not @wip" //runs all the test cases since the @login tag is at the top but excludes @wip tags
         //tags = {"@login" ,"~@wip"} OLD SYNTAX
-        tags = "@wip"
+        tags = "@smoke"
 
 )
 public class CukesRunner {
